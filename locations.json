@@ -1,5 +1,29 @@
 [
     {
+        "country": "Philippines",
+        "title": "",
+        "date": "2019",
+        "url": "images/locations/2019-philippines.jpg"
+    },
+    {
+        "country": "England",
+        "title": "",
+        "date": "2018",
+        "url": "images/locations/2018-england.jpg"
+    },
+    {
+        "country": "China",
+        "title": "",
+        "date": "2018",
+        "url": "images/locations/2018-china.jpg"
+    },
+    {
+        "country": "Peru",
+        "title": "",
+        "date": "2018",
+        "url": "images/locations/2018-peru.jpg"
+    },
+    {
         "country": "United States",
         "title": "",
         "date": "2017",
