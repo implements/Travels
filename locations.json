@@ -1,5 +1,29 @@
 [
     {
+        "country": "Philippines",
+        "title": "",
+        "date": "2020",
+        "url": "images/locations/2020-philippines.jpg"
+    },
+    {
+        "country": "England",
+        "title": "",
+        "date": "2019",
+        "url": "images/locations/2019-england.jpg"
+    },
+    {
+        "country": "Jordan",
+        "title": "",
+        "date": "2019",
+        "url": "images/locations/2019-jordan.jpg"
+    },
+    {
+        "country": "Israel",
+        "title": "",
+        "date": "2019",
+        "url": "images/locations/2019-israel.jpg"
+    },
+    {
         "country": "Indonesia",
         "title": "",
         "date": "2019",
