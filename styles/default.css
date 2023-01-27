@@ -1,7 +1,7 @@
 body {
     background-image: url("../images/linen.jpg");
     font-family: "Open Sans";
-    width: 900em;
+    width: 1200em;
     padding: 1em;
 }
 
@@ -28,12 +28,13 @@ body {
 }
 
 .text {
+    font-family: "Pacifico";
     text-align: center;
     position: relative;
     top: 50%;
-    transform: translateY(-50%);
-    font-weight: bold;
+    transform: translateY(-50%) rotate(-3deg);
     color: white;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
     cursor: default;
 }
 

@@ -1,5 +1,77 @@
 [
     {
+        "country": "France",
+        "title": "",
+        "date": "2023",
+        "url": "images/locations/2023-france.jpg"
+    },
+    {
+        "country": "Greece",
+        "title": "",
+        "date": "2022",
+        "url": "images/locations/2022-greece.jpg"
+    },
+    {
+        "country": "Thailand",
+        "title": "",
+        "date": "2022",
+        "url": "images/locations/2022-thailand.jpg"
+    },
+    {
+        "country": "Malaysia",
+        "title": "",
+        "date": "2021",
+        "url": "images/locations/2022-malaysia.jpg"
+    },
+    {
+        "country": "Singapore",
+        "title": "",
+        "date": "2021",
+        "url": "images/locations/2022-singapore.jpg"
+    },
+    {
+        "country": "Switzerland",
+        "title": "",
+        "date": "2022",
+        "url": "images/locations/2022-switzerland.jpg"
+    },
+    {
+        "country": "Netherlands",
+        "title": "",
+        "date": "2021",
+        "url": "images/locations/2021-netherlands.jpg"
+    },
+    {
+        "country": "Belgium",
+        "title": "",
+        "date": "2021",
+        "url": "images/locations/2021-belgium.jpg"
+    },
+    {
+        "country": "Montenegro",
+        "title": "",
+        "date": "2021",
+        "url": "images/locations/2021-montenegro.jpg"
+    },
+    {
+        "country": "Croatia",
+        "title": "",
+        "date": "2021",
+        "url": "images/locations/2021-croatia.jpg"
+    },
+    {
+        "country": "Slovenia",
+        "title": "",
+        "date": "2021",
+        "url": "images/locations/2021-slovenia.jpg"
+    },
+    {
+        "country": "Germany",
+        "title": "",
+        "date": "2021",
+        "url": "images/locations/2021-germany.jpg"
+    },
+    {
         "country": "Portugal",
         "title": "",
         "date": "2020",
