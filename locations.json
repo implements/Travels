@@ -1,7 +1,7 @@
 [
     {
         "country": "France",
-        "title": "",
+        "title": "Ski Trip",
         "date": "2023",
         "url": "images/locations/2023-france.jpg"
     },
@@ -264,10 +264,10 @@
         "url": "images/locations/2011-france.jpg"
     },
     {
-        "country": "Holland",
+        "country": "Netherlands",
         "title": "Interrail",
         "date": "2011",
-        "url": "images/locations/2011-holland.jpg"
+        "url": "images/locations/2011-netherlands.jpg"
     },
     {
         "country": "Japan",
