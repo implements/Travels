@@ -1,5 +1,29 @@
 [
     {
+        "country": "USA",
+        "title": "",
+        "date": "2023",
+        "url": "images/locations/2023-france.jpg"
+    },
+    {
+        "country": "Cambodia",
+        "title": "",
+        "date": "2023",
+        "url": "images/locations/2023-france.jpg"
+    },
+    {
+        "country": "Laos",
+        "title": "",
+        "date": "2023",
+        "url": "images/locations/2023-france.jpg"
+    },
+    {
+        "country": "Austria",
+        "title": "Ski Trip",
+        "date": "2023",
+        "url": "images/locations/2023-france.jpg"
+    },
+    {
         "country": "France",
         "title": "Ski Trip",
         "date": "2023",
