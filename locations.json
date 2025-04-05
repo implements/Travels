@@ -1,5 +1,11 @@
 [
     {
+        "country": "Austria",
+        "title": "Ski Trip",
+        "date": "2024",
+        "url": "images/locations/2024-austria.jpg"
+    },
+    {
         "country": "United States",
         "title": "",
         "date": "2023",
