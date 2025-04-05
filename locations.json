@@ -1,5 +1,24 @@
 [
     {
+        "country": "Malaysia",
+        "title": "",
+        "date": "2024",
+        "url": "images/locations/2024-malaysia.jpg"
+    },
+    {
+        "country": "Brunei",
+        "title": "",
+        "date": "2024",
+        "url": "images/locations/2024-brunei.jpg"
+    },
+    
+    {
+        "country": "Vietnam",
+        "title": "",
+        "date": "2024",
+        "url": "images/locations/2024-vietnam.jpg"
+    },
+    {
         "country": "Austria",
         "title": "Ski Trip",
         "date": "2024",
